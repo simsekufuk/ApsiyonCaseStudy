@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ApsiyonCaseStudy.Model/1.0.0": {
+        "runtime": {
+          "ApsiyonCaseStudy.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApsiyonCaseStudy.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

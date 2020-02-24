@@ -1,0 +1,7 @@
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.Abstract\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.Abstract.deps.json
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.Abstract\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.Abstract.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.Abstract\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.Abstract.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.Abstract\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.Abstract.AssemblyInfoInputs.cache
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.Abstract\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.Abstract.AssemblyInfo.cs
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.Abstract\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.Abstract.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.Abstract\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.Abstract.pdb

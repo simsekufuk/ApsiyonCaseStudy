@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ApsiyonCaseStudy.Utilies/1.0.0": {
+        "dependencies": {
+          "ApsiyonCaseStudy.Utilies.Abstract": "1.0.0"
+        },
+        "runtime": {
+          "ApsiyonCaseStudy.Utilies.dll": {}
+        }
+      },
+      "ApsiyonCaseStudy.Utilies.Abstract/1.0.0": {
+        "runtime": {
+          "ApsiyonCaseStudy.Utilies.Abstract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApsiyonCaseStudy.Utilies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApsiyonCaseStudy.Utilies.Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

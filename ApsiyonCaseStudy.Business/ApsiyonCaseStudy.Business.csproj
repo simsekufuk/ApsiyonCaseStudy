@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApsiyonCaseStudy.Business.Abstract\ApsiyonCaseStudy.Business.Abstract.csproj" />
+    <ProjectReference Include="..\ApsiyonCaseStudy.Data.Abstract\ApsiyonCaseStudy.Data.Abstract.csproj" />
+    <ProjectReference Include="..\ApsiyonCaseStudy.Utilies.Abstract\ApsiyonCaseStudy.Utilies.Abstract.csproj" />
+  </ItemGroup>
+
+</Project>

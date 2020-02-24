@@ -1,0 +1,104 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ApsiyonCaseStudy.Business.IOC/1.0.0": {
+        "dependencies": {
+          "ApsiyonCaseStudy.Business": "1.0.0",
+          "ApsiyonCaseStudy.Business.Abstract": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0"
+        },
+        "runtime": {
+          "ApsiyonCaseStudy.Business.IOC.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18315"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "ApsiyonCaseStudy.Business/1.0.0": {
+        "dependencies": {
+          "ApsiyonCaseStudy.Business.Abstract": "1.0.0",
+          "ApsiyonCaseStudy.Data.Abstract": "1.0.0",
+          "ApsiyonCaseStudy.Utilies.Abstract": "1.0.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "ApsiyonCaseStudy.Business.dll": {}
+        }
+      },
+      "ApsiyonCaseStudy.Business.Abstract/1.0.0": {
+        "runtime": {
+          "ApsiyonCaseStudy.Business.Abstract.dll": {}
+        }
+      },
+      "ApsiyonCaseStudy.Data.Abstract/1.0.0": {
+        "runtime": {
+          "ApsiyonCaseStudy.Data.Abstract.dll": {}
+        }
+      },
+      "ApsiyonCaseStudy.Utilies.Abstract/1.0.0": {
+        "runtime": {
+          "ApsiyonCaseStudy.Utilies.Abstract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApsiyonCaseStudy.Business.IOC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f9hstgjVmr6rmrfGSpfsVOl2irKAgr1QjrSi3FgnS7kulxband50f2brRLwySAQTADPZeTdow0mpSMcoAdadCw==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.2.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "ApsiyonCaseStudy.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApsiyonCaseStudy.Business.Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApsiyonCaseStudy.Data.Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApsiyonCaseStudy.Utilies.Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

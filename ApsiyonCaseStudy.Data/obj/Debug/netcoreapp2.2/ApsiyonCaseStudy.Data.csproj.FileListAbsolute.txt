@@ -1,0 +1,15 @@
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.deps.json
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.Abstract.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Entity.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Utilies.Abstract.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.Abstract.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Entity.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Utilies.Abstract.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.csprojAssemblyReference.cache
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.AssemblyInfoInputs.cache
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.AssemblyInfo.cs
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.csproj.CopyComplete
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.pdb

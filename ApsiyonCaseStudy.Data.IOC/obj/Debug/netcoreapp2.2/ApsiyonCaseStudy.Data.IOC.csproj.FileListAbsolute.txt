@@ -1,0 +1,17 @@
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.IOC.deps.json
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.IOC.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.IOC.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.Abstract.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Entity.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Utilies.Abstract.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.Abstract.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Entity.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Utilies.Abstract.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.IOC.csprojAssemblyReference.cache
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.IOC.AssemblyInfoInputs.cache
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.IOC.AssemblyInfo.cs
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.IOC.csproj.CopyComplete
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.IOC.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Data.IOC\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.IOC.pdb

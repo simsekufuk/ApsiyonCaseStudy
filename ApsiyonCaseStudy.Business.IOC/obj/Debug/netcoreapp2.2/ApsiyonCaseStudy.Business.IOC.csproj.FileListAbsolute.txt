@@ -1,0 +1,17 @@
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.IOC.deps.json
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.IOC.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.IOC.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.Abstract.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.Abstract.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Utilies.Abstract.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.Abstract.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.Abstract.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Utilies.Abstract.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.IOC.csprojAssemblyReference.cache
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.IOC.AssemblyInfoInputs.cache
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.IOC.AssemblyInfo.cs
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.IOC.csproj.CopyComplete
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.IOC.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business.IOC\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.IOC.pdb

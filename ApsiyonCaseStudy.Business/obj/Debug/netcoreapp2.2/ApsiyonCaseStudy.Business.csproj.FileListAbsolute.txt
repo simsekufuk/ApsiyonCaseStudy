@@ -1,0 +1,15 @@
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.deps.json
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.Abstract.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.Abstract.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Utilies.Abstract.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.Abstract.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Data.Abstract.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Utilies.Abstract.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.csprojAssemblyReference.cache
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.AssemblyInfoInputs.cache
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.AssemblyInfo.cs
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.csproj.CopyComplete
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Business\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Business.pdb

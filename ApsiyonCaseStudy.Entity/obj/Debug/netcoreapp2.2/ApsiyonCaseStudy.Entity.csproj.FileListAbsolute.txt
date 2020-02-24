@@ -1,0 +1,7 @@
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Entity\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Entity.deps.json
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Entity\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Entity.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Entity\bin\Debug\netcoreapp2.2\ApsiyonCaseStudy.Entity.pdb
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Entity\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Entity.AssemblyInfoInputs.cache
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Entity\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Entity.AssemblyInfo.cs
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Entity\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Entity.dll
+D:\Users\UfukPC\Desktop\ApsiyonCaseStudy\ApsiyonCaseStudy\ApsiyonCaseStudy.Entity\obj\Debug\netcoreapp2.2\ApsiyonCaseStudy.Entity.pdb
